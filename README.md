@@ -1,64 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Felipe+Herrera;I'm+Software+Student)](https://git.io/typing-svg)
+# 💻 Felipe Herrera Perea - Full Stack Developer | Hip Hop Enthusiast | RPA Specialist 🎮
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+![Hi there!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) 
 
-<br>
+Hello! I'm Felipe Herrera Perea, a passionate Full Stack Developer, process automation enthusiast, and a fervent lover of Hip Hop culture. My journey in technology has led me to explore various fields, from full-stack web development to creating Minecraft mods and automating workflows with Power Automate Desktop.
 
-<div align="center" style="margin-bottom:200px">
-Hi, I'm Pipe, a Programming student passionate about development and entrepreneurship.
+## 🚀 About Me
 
-- :books: I’m currently learning C#, Typescript, Node.js, Java, React and React Native.
-- :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
-- :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics, Ardunino.
+- 🌐 **Full Stack Developer:** Focused on building complete web applications, handling both frontend and backend with tools like React, Node.js, and Spring Boot.
+- 🎮 **Gamer & Modder:** Minecraft is one of my favorites, where I enjoy creating mods that enhance the gameplay experience, exploring and customizing the world as I see fit.
+- 🤖 **RPA Specialist:** Expert in automating repetitive tasks using Power Automate Desktop, optimizing processes, and boosting efficiency in various projects.
+- 🎤 **Hip Hop & Urban Culture:** Beyond technology, Hip Hop is in my veins. I integrate elements of urban culture into my projects, from aesthetics to music.
 
-----
-</div>
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📈 Featured Projects
+
+### [🔥 Personal Portfolio](https://github.com/herreracode3/portfolio)
+A showcase of my skills as a developer, integrating urban design elements with a touch of advanced technology. It includes featured projects and blogs on web development and automation.
+
+### [🎮 Minecraft Modding](https://github.com/herreracode3/minecraft-mods)
+A collection of mods I’ve developed to enhance gameplay and offer new experiences within Minecraft. These mods range from aesthetic changes to new gameplay features.
+
+### [🤖 Automation with Power Automate Desktop](https://github.com/herreracode3/power-automate-scripts)
+A collection of automated workflows designed to optimize repetitive tasks using Power Automate Desktop. These scripts are ideal for improving efficiency in daily work.
+
+## 🌍 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herreracode3/?hl=es-la)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-herreradev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@herrera_code3)
+
+---
+
+I’m constantly focused on improving my skills, learning new technologies, and sharing my knowledge with the community. If you share any of these passions, let’s connect and work together!
 
 
-<br>
 
-## Language and Tools
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
-
-
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-
-#### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-
-<br>
-
-## Academic Background:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.codigoc13.com/)
-**Full Stack Developer** \
-[**Código C13 Academy**](https://www.codigoc13.com/) • finalized \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`NPM` `MongoDB` `React`
-
-<br>
-
-## Contact me:
-<div>
-<a href = "mailto: felipeherrerapere03@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"</a>
-<a href="https://www.linkedin.com/in/felipe-herreradev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 
 
