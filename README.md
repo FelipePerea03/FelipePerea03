@@ -4,7 +4,6 @@
 
 Hello! I'm Felipe Herrera Perea, a passionate Full Stack Developer, process automation enthusiast, and a fervent lover of Hip Hop culture. My journey in technology has led me to explore various fields, from full-stack web development to creating Minecraft mods and automating workflows with Power Automate Desktop.
 
-![Tech and Art](https://media.giphy.com/media/3o7aD9o9bXkaZMt5Ti/giphy.gif)
 
 ## 🚀 About Me
 
